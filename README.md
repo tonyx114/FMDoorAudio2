@@ -1,3 +1,17 @@
+# FMDoorAudio V1.1
+
+A modern GTA V custom door audio editor designed to simplify creating and managing door audio definitions.
+
+Inspired by older door audio tools, FMDoorAudio offers a cleaner workflow, additional features, and full compatibility with the latest version of CodeWalker.
+
+Features 🔊 Create and edit custom GTA V door audio definitions. 💾 Save and load projects—no more manually creating name table files. 🔑 Automatically stores pre-hashed names for each project. ✏️ Easily add new doors or modify existing ones at any time. 🚪 Includes all available GTA V door audio types. ✅ Compatible with the latest CodeWalker release.
+
+
+
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
